@@ -1,5 +1,5 @@
 import incomeImg from '../../assets/Entradas.svg'
-import outcomeImg from '../../assets/Saídas.svg'
+import outcomeImg from '../../assets/Saidas.svg'
 import totalImg from '../../assets/Total.svg'
 
 import { Container } from "./styles";
